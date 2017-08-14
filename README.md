@@ -20,7 +20,7 @@ The Bitbucket pipeline don't support MySQL as service, like many others solution
 ## `bitbucket-pipelines.yml` example
 
 ```YAML
-image: edbizarro/bitbucket-pipelines-php7
+image: migo2468/bitbucket-pipelines-php7
 pipelines:
   default:
     - step:
